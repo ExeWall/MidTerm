@@ -1,0 +1,51 @@
+body {
+	background-color: #9C9C9C;
+}
+
+h1 {
+	background-color: #E3C565;
+	color: #FAFBF2;
+}
+
+h2 {
+	color: #E3C565;
+}
+
+h3 {
+	color: #E3C565;
+}
+
+p {
+    color: #E3C565;
+    margin: 40px;
+    border: 5px solid #FAFBF2;
+    padding: 20px;
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+h3 {
+	color: #E3C565;
+}
+
+h3 {
+	color:#E3C565;
+}
+
+a:link {
+  color: #FAFBF2;
+}
+
+a:visited {
+  color: #FAFBF2;
+}
+
+a:hover {
+  color: ##595959;
+}
+
+	
+	
+	
+	
+
